@@ -7,5 +7,5 @@
 void print_times_table(int n)
 {
 
-	retirn (0);
+	return (0);
 }
